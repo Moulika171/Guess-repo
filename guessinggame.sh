@@ -1,32 +1,4 @@
-
-
-
-
-
-
-
 #!/usr/bin/env bash
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 dirarray=($( ls -d */ ))
 dircount=${#dirarray[@]}
